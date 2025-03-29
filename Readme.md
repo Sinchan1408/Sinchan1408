@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
+- 📄 [View My Resume](https://drive.google.com/file/d/1-96zcZqHhY1QXqPkLE6M5rUMUdoP10jP/view?usp=sharing)
+
 - 📫 How to reach me **sinchans1408@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
