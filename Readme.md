@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinchan1408&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan1408" /> </p>
 
-- 🔭 I’m currently working on **Food Order Management system**
+- 🔭 I’m currently learning  *RAG systems*
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1-96zcZqHhY1QXqPkLE6M5rUMUdoP10jP/view?usp=sharing)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1-96zcZqHhY1QXqPkLE6M5rUMUdoP10jP/view?usp=sharing](https://drive.google.com/file/d/1InXqgZMu771qln2HICp8ZjSfZ5IWHiT1/view?usp=drive_link))
 
 - 📫 How to reach me **sinchans1408@gmail.com**
 
