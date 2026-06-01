@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 📄 [View My Resume]((https://drive.google.com/file/d/1InXqgZMu771qln2HICp8ZjSfZ5IWHiT1/view?usp=drive_link))
+- 📄 [View My Resume](https://drive.google.com/file/d/1InXqgZMu771qln2HICp8ZjSfZ5IWHiT1/view?usp=drive_link)
 
 - 📫 How to reach me **sinchans1408@gmail.com**
 
